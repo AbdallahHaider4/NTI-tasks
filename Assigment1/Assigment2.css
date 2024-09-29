@@ -1,0 +1,30 @@
+.h2 {
+  vertical-align: text-top;
+}
+.table1{
+  th{
+    text-align: left;
+    font-size: 30px;
+  }
+  td{
+    vertical-align: bottom;
+  }
+  .title{
+    text-align: left;
+    font-size: 30px;
+  }
+}
+.table2,
+.table3,
+.table4,
+.table5{
+  th {
+    vertical-align: text-top;
+    color: orange;
+    font-style: italic;
+    font-size: 30px;
+  }
+  p{
+  }
+}
+
