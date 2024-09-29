@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+div {
+  width: 350px;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+.card-title {
+  margin-top: 20px;
+  display: inline-block;
+  padding: 10px 10px;
+  border: 2px solid lightgreen;
+  border-radius: 50px;
+  color: lightgreen;
+  font-size: 14px;
+}
+.card-text {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
