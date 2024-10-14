@@ -1,0 +1,27 @@
+.bg-body{
+    background-color: #C2EFD4!important;
+    height: 9000px!important;
+}
+.btn-outline-success,.btn{
+    color: #224F34 !important;   
+    border-radius: 5% !important;
+}
+.rounded{
+    border-radius: 10% 0 10% 0 !important;
+}
+.primary{
+    background-color: #224F34 !important;
+    color: white !important;
+}
+.c-primary{
+color: #224F34;
+}
+.card1-bg{
+    background-color: #93B9A2;
+}
+.card2-bg{
+    background-color: #A9D4BA;
+}
+.card3-bg{
+    background-color: #CADCD0;
+}
