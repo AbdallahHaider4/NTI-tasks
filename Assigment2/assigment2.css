@@ -15,13 +15,18 @@ img {
   width: 100%;
   border-radius: 10px;
 }
+.card-title:hover {
+  background-color: white;
+  color: lightgreen;
+}
 .card-title {
   margin-top: 20px;
   display: inline-block;
   padding: 10px 10px;
   border: 2px solid lightgreen;
   border-radius: 50px;
-  color: lightgreen;
+  color: white;
+  background-color: green;
   font-size: 14px;
 }
 .card-text {
